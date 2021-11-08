@@ -4,3 +4,17 @@ div{
 .one {
     color:limegreen;
 }
+.two {
+    color: chocolate;
+}
+
+h1{
+    text-align:center;
+    font-size: 200;
+    color: coral;
+}
+p {font-size: 100;
+color: darkblue;}
+
+#second {color: fuchsia;}
+.underline {text-decoration:underline}
